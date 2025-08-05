@@ -12,4 +12,10 @@
   Improved grammar and sentence clarity in the Community section of React documentation.
 
 
+  3)📝 EasyEngine – Documentation Clarity Update
+ Improved the structure, grammar, and clarity of the README.md file to enhance readability and consistency.
+ Focused on fixing minor typos and restructuring sentences for better understanding.
+Pull Request #1899
+
+
 
