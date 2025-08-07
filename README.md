@@ -17,5 +17,11 @@
  Focused on fixing minor typos and restructuring sentences for better understanding.
 Pull Request #1899
 
+4)WordPress Gutenberg Accessibility Documentation Fix
+Improved clarity and readability in the Accessibility Guide for the Gutenberg editor.
+Made minor fixes to enhance user understanding and promote inclusive development practices.
+
+This contribution improves the accessibility knowledge base for new developers contributing to the Gutenberg project.
+
 
 
